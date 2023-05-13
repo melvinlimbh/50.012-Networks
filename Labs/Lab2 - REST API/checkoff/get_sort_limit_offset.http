@@ -1,0 +1,6 @@
+GET http://127.0.0.1:8000/students/?sortBy=gpa&limit=5&offset=1 HTTP/1.1
+
+# total number of students: 5 (6 if student is added)
+# sort students by gpa, limit to 5, and skip 1 student
+# output for this case would be K,Bob,Charlie in ascending
+# order of gpa

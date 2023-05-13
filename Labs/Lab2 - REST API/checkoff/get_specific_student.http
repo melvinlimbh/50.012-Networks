@@ -1,0 +1,4 @@
+GET http://127.0.0.1:8000/students/1004567 HTTP/1.1
+
+# get student with this student id
+# throw error 404 as student does not exist in dataset
