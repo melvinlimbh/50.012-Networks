@@ -1,0 +1,15 @@
+Feb 14 22:12:12 wiping cache.....
+Feb 14 22:12:12 Done.
+Feb 14 22:12:12 Proxy ready to serve at port 8080
+Feb 14 22:12:12 []
+Feb 14 22:12:12 ['GET', 'http://neverssl.com/', 'HTTP/1.1', 'Host:', 'neverssl.com', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 22:12:12 webServer: neverssl.com
+Feb 14 22:12:12 resource: neverssl.com/
+Feb 14 22:12:12 !!!!! Cache miss !!!!!
+Feb 14 22:12:12 Created cache file.
+Feb 14 22:12:12 Writing to cache....
+Feb 14 22:12:13 Done.
+Feb 14 22:12:13 serverFacingSocket force closed.
+Feb 14 22:12:13 clientFacingSocket force closed.
+Feb 14 22:12:13 []
+Feb 14 22:12:13 bye...

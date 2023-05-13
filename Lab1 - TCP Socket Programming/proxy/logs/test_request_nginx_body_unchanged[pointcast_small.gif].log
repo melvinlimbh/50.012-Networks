@@ -1,0 +1,15 @@
+Feb 14 21:51:14 wiping cache.....
+Feb 14 21:51:14 Done.
+Feb 14 21:51:14 Proxy ready to serve at port 8080
+Feb 14 21:51:14 []
+Feb 14 21:51:14 ['GET', 'http://nginx-server/pointcast_small.gif', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 21:51:14 webServer: nginx-server
+Feb 14 21:51:14 resource: nginx-server/pointcast_small.gif
+Feb 14 21:51:14 !!!!! Cache miss !!!!!
+Feb 14 21:51:14 Created cache file.
+Feb 14 21:51:14 Writing to cache....
+Feb 14 21:51:14 Done.
+Feb 14 21:51:14 serverFacingSocket closed.
+Feb 14 21:51:14 clientFacingSocket force closed.
+Feb 14 21:51:14 []
+Feb 14 21:51:15 bye...
