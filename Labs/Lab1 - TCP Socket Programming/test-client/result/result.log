@@ -1,0 +1,24 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.2, pytest-7.2.1, pluggy-1.0.0
+rootdir: /app/tests
+plugins: anyio-3.6.2
+collected 13 items
+
+basic_test.py .............                                              [100%]
+
+==================================== PASSES ====================================
+=========================== short test summary info ============================
+PASSED basic_test.py::test_request_neverssl_receives_response
+PASSED basic_test.py::test_request_nginx_receives_response
+PASSED basic_test.py::test_request_nginx_body_unchanged[h_microsoft.gif]
+PASSED basic_test.py::test_request_nginx_body_unchanged[solutions.gif]
+PASSED basic_test.py::test_request_nginx_body_unchanged[comdex.gif]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[all_request_index]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[first_two_index_last_one_200]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[first_two_index_last_one_404]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[first_index_last_two_200]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[first_index_last_two_404]
+PASSED basic_test.py::test_closing_one_client_does_not_affect_other_clients[all_404]
+PASSED basic_test.py::test_multiple_calls_to_same_resource_should_be_cached_single_client
+PASSED basic_test.py::test_cached_resources_should_be_namespaced_by_domain
+============================= 13 passed in 26.17s ==============================

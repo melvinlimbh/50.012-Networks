@@ -1,0 +1,15 @@
+Feb 14 21:59:40 wiping cache.....
+Feb 14 21:59:40 Done.
+Feb 14 21:59:40 Proxy ready to serve at port 8080
+Feb 14 21:59:40 []
+Feb 14 21:59:40 ['GET', 'http://nginx-server/nav_home.gif', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 21:59:40 webServer: nginx-server
+Feb 14 21:59:40 resource: nginx-server/nav_home.gif
+Feb 14 21:59:40 !!!!! Cache miss !!!!!
+Feb 14 21:59:40 Created cache file.
+Feb 14 21:59:40 Writing to cache....
+Feb 14 21:59:40 Done.
+Feb 14 21:59:40 serverFacingSocket force closed.
+Feb 14 21:59:40 clientFacingSocket force closed.
+Feb 14 21:59:40 []
+Feb 14 21:59:41 bye...
