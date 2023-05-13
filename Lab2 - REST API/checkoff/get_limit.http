@@ -1,3 +1,0 @@
-GET http://127.0.0.1:8000/students&limit=2 HTTP/1.1
-
-# limit number of students shown to specified number, in this case 2.

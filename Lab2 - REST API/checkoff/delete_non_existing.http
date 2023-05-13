@@ -1,4 +1,0 @@
-DELETE http://127.0.0.1:8000/students/1004331 HTTP/1.1
-
-# server will attempt to delete the student with this id, but throw error 404 as student
-# cannot be found
