@@ -1,0 +1,13 @@
+Feb 14 21:33:14 wiping cache.....
+Feb 14 21:33:14 Done.
+Feb 14 21:33:14 Proxy ready to serve at port 8080
+Feb 14 21:33:14 []
+Feb 14 21:33:14 ['GET', 'http://nginx-server/woofer.gif', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 21:33:14 webServer: nginx-server
+Feb 14 21:33:14 resource: nginx-server/woofer.gif
+Feb 14 21:33:14 !!!!! Cache miss !!!!!
+Feb 14 21:33:14 Created cache file.
+Feb 14 21:33:14 Writing to cache....
+Feb 14 21:33:14 Done.
+Feb 14 21:33:14 []
+Feb 14 21:33:15 bye...
