@@ -1,0 +1,13 @@
+Feb 14 21:33:10 wiping cache.....
+Feb 14 21:33:10 Done.
+Feb 14 21:33:10 Proxy ready to serve at port 8080
+Feb 14 21:33:11 []
+Feb 14 21:33:11 ['GET', 'http://nginx-server/netnow3.gif', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 21:33:11 webServer: nginx-server
+Feb 14 21:33:11 resource: nginx-server/netnow3.gif
+Feb 14 21:33:11 !!!!! Cache miss !!!!!
+Feb 14 21:33:11 Created cache file.
+Feb 14 21:33:11 Writing to cache....
+Feb 14 21:33:11 Done.
+Feb 14 21:33:11 []
+Feb 14 21:33:12 bye...

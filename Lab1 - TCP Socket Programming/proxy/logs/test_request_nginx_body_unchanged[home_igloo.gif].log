@@ -1,0 +1,15 @@
+Feb 14 21:59:38 wiping cache.....
+Feb 14 21:59:38 Done.
+Feb 14 21:59:38 Proxy ready to serve at port 8080
+Feb 14 21:59:38 []
+Feb 14 21:59:38 ['GET', 'http://nginx-server/home_igloo.gif', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 21:59:38 webServer: nginx-server
+Feb 14 21:59:38 resource: nginx-server/home_igloo.gif
+Feb 14 21:59:38 !!!!! Cache miss !!!!!
+Feb 14 21:59:38 Created cache file.
+Feb 14 21:59:38 Writing to cache....
+Feb 14 21:59:38 Done.
+Feb 14 21:59:38 serverFacingSocket force closed.
+Feb 14 21:59:38 clientFacingSocket force closed.
+Feb 14 21:59:38 []
+Feb 14 21:59:39 bye...

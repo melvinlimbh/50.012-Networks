@@ -1,0 +1,30 @@
+Feb 14 22:12:25 wiping cache.....
+Feb 14 22:12:25 Done.
+Feb 14 22:12:25 Proxy ready to serve at port 8080
+Feb 14 22:12:25 []
+Feb 14 22:12:25 ['GET', 'http://nginx-server/', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 22:12:25 webServer: nginx-server
+Feb 14 22:12:25 resource: nginx-server/
+Feb 14 22:12:25 !!!!! Cache miss !!!!!
+Feb 14 22:12:25 Created cache file.
+Feb 14 22:12:25 Writing to cache....
+Feb 14 22:12:25 Done.
+Feb 14 22:12:25 serverFacingSocket force closed.
+Feb 14 22:12:25 clientFacingSocket force closed.
+Feb 14 22:12:25 ['GET', 'http://nginx-server/', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 22:12:25 webServer: nginx-server
+Feb 14 22:12:25 resource: nginx-server/
+Feb 14 22:12:25 *****Cache HIT*****
+Feb 14 22:12:25 served from the cache
+Feb 14 22:12:25 clientFacingSocket force closed.
+Feb 14 22:12:25 ['GET', 'http://nginx-server/404', 'HTTP/1.1', 'Host:', 'nginx-server', 'Accept:', '*/*', 'Accept-Encoding:', 'gzip,', 'deflate', 'Connection:', 'keep-alive', 'User-Agent:', 'python-httpx/0.23.3']
+Feb 14 22:12:25 webServer: nginx-server
+Feb 14 22:12:25 resource: nginx-server/404
+Feb 14 22:12:25 !!!!! Cache miss !!!!!
+Feb 14 22:12:25 Created cache file.
+Feb 14 22:12:25 Writing to cache....
+Feb 14 22:12:25 Done.
+Feb 14 22:12:25 serverFacingSocket force closed.
+Feb 14 22:12:25 []
+Feb 14 22:12:25 clientFacingSocket force closed.
+Feb 14 22:12:26 bye...
