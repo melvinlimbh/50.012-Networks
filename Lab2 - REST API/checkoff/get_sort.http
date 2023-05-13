@@ -1,0 +1,4 @@
+http://localhost:8000/students?sortBy=id
+
+# sorts by student id, where output = K,Cream,Bob,Alice,Charlie
+# In ascending order of student id
